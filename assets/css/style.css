@@ -1,0 +1,22 @@
+.zoom{
+    font-size: 1.5rem;
+}
+
+#i {
+    display: none;
+}
+#u {
+    display: none;
+}
+
+
+
+
+#cube{
+        width:100px;
+        height:100px;
+        background: black;
+        position: absolute;
+        bottom: 0px;
+        left: 50%;
+       }
